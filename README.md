@@ -1,6 +1,10 @@
 LRVariadicPerformSelector
 ======================
 
+[![Pod Version](http://img.shields.io/cocoapods/v/LRVariadicPerformSelector.svg?style=flat)](http://cocoadocs.org/docsets/LRVariadicPerformSelector/)
+[![Pod Platform](http://img.shields.io/cocoapods/p/LRVariadicPerformSelector.svg?style=flat)](http://cocoadocs.org/docsets/LRVariadicPerformSelector/)
+[![Pod License](http://img.shields.io/cocoapods/l/LRVariadicPerformSelector.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0.html)
+
 Because sometimes, we need to perform selectors with more than two arguments...
 
 Also, this simple category allows the option to inject the queue (`dispatch_queue_t` or `NSOperationQueue`) that we want the selector to be exectued on.
