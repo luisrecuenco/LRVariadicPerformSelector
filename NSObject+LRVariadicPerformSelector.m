@@ -142,7 +142,7 @@ NS_INLINE NSUInteger LRSelectorArgumentCount(id target, SEL selector)
     
     NSCAssert(arguments >= kSelfAndCmdMagicConstant, @"Oops, wrong arguments");
     
-    return arguments - 2;
+    return arguments - kSelfAndCmdMagicConstant;
 }
 
 @end
