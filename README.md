@@ -27,7 +27,7 @@ Also, this simple category allows the option to inject the queue (`dispatch_queu
 
 2. **Manually**
 
-   Clone the project or add it as a submodule. Drag `LRVariadicPerformSelector.h/m` folder to your project.
+   Clone the project or add it as a submodule. Drag `NSObject+LRVariadicPerformSelector.h/m` folder to your project.
 
 ### Usage
 
